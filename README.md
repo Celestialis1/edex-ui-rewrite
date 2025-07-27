@@ -1,3 +1,6 @@
+> **Status:** In active development — first public release is expected **Q4 2025**  
+> Repository: [Celestialis1/edex-ui-rewrite](https://github.com/Celestialis1/edex-ui-rewrite)
+
 <p align="center">
   <br>
   <img alt="Logo" src="media/logo.png">
