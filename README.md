@@ -6,7 +6,7 @@
   <img alt="Logo" src="media/logo.png">
   <br><br>
   <a href="https://github.com/Celestialis1/edex-ui-rewrite/releases/latest"><img alt="Latest Release" src="https://img.shields.io/github/release/YourUser/edex-ui-rewrite.svg?style=popout"></a>
-  <a href="#featured-in"><img alt="Downloads" src="https://img.shields.io/github/downloads/Celestialis1edex-ui-rewrite/total.svg?style=popout"></a>
+  <a href="#featured-in"><img alt="Downloads" src="https://img.shields.io/github/downloads/Celestialis1/edex-ui-rewrite/total.svg?style=popout"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/Celestialis1/edex-ui-rewrite.svg?style=popout"></a>
   <br>
   <a href="https://github.com/Celestialis1/edex-ui-rewrite/releases/download/vX.Y.Z/edex-ui-rewrite-Windows.exe" target="_blank"><img alt="Windows Download" src="https://badgen.net/badge/Download/Windows/?color=blue&icon=windows&label"></a>
